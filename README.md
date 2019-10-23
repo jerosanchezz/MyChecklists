@@ -1,4 +1,7 @@
-# MyChecklists
+# MyChecklists -  待辦事項提醒
+
+此應用可讓您將待辦事項組織到列表中，然後在完成後將其選中。
+您還可以在待辦事項上設置提醒，即使該應用未運行，它也可以使iPhone在到期日彈出警報。
 
 This app lets you organize to-do items into lists and then check off these items once you’ve completed them. You can also set a reminder on a to-do item that will make the iPhone pop up an alert on the due date, even when the app isn’t running.
 
